@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "FREE SHIPPING ON ALL ORDERS",
+            "text": "Welcome to our store",
             "link": ""
           }
         }
@@ -17,7 +17,7 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,
