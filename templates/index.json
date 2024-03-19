@@ -13,7 +13,7 @@
         "text_aDfcTq": {
           "type": "text",
           "settings": {
-            "text": "<h1>adventure<br\/>of your new<br\/>beverage ritual<\/h1>",
+            "text": "<h1><em><strong>adventure<\/strong><\/em><br\/>of your new<br\/>beverage ritual<\/h1>",
             "text_style": "body"
           }
         },
